@@ -70,11 +70,12 @@ https://www.python.org/
 
 ## Authors
 
-### \* IT20163754 - Mandalawatta M.T
 
 ### \* IT20074654 - Fernando W.A.M.A.R
 
+### \* IT20115548 - Jinadasa U. G. O. C
+
 ### \* IT20120016 - Amarasinghe B. P. A
 
-### \* IT20115548 - Jinadasa U. G. O. C
+### \* IT20163754 - Mandalawatta M.T
 
